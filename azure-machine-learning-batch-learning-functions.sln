@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "azure-machine-learning-batch-learning-functions", "azure-machine-learning-batch-learning-functions\azure-machine-learning-batch-learning-functions.csproj", "{7EC44F09-6647-43EF-BF18-5403226C3D8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EC44F09-6647-43EF-BF18-5403226C3D8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EC44F09-6647-43EF-BF18-5403226C3D8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EC44F09-6647-43EF-BF18-5403226C3D8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EC44F09-6647-43EF-BF18-5403226C3D8F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B639676A-89B2-416B-B049-150FB475C5F0}
+	EndGlobalSection
+EndGlobal
